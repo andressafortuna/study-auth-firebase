@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 
 // Configurações do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBvnOftoDSV5sam1JBYKJnDCY-zMRIWobo",
-  authDomain: "autenticacao-aula-95125.firebaseapp.com",
-  projectId: "autenticacao-aula-95125",
-  storageBucket: "autenticacao-aula-95125.firebasestorage.app",
-  messagingSenderId: "286845351173",
-  appId: "1:286845351173:web:c16874b841d6a81708b36c"
+  apiKey: "YOUR_API_KEY_HERE",
+  authDomain: "your-project-id.firebaseapp.com",
+  projectId: "your-project-id",
+  storageBucket: "your-project-id.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 
 // Inicializar o Firebase
